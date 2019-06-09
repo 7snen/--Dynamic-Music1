@@ -1,6 +1,6 @@
-owner=490871722011131935
+owner=
 prefix=1
-game=1play|#PG Community
+game=1play|#Dynamic 
 stayinchannel=false
 songinstatus=false
-token=NTc4NTQzMjExOTMzNTk3Njk2.XN1IeQ.3Ywl4fcjFG1iK91fj0q8WFUbiUM
+token=NTg3Mzc3OTQ2MTA5NjczNTAy.XP1tPw.3KerYHQwyt_mXOen_csaGFCE6-Q
